@@ -1,6 +1,10 @@
 #include <iostream>
 
-int main(int argc, char *argv[]) {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
+int main(int argc, char *args[]) {
+		// TODO:
+		// Game *game = new Game();
+		
+		std::cout << "Game is running..." << std::endl;	
+		return 0;
 }
+
